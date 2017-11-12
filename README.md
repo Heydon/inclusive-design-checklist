@@ -34,6 +34,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Use consistent design patterns
 - [ ] Ensure keyboard focus order matches visual layout
 - [ ] Lazy load large image assets
+- [ ] Translate / spell out acronyms the first time you use them
 - [ ] Do not hijack standard scrolling behavior
 - [ ] Move focus between dialogs and the controls that invoked them
 - [ ] Give all form elements permanently visible labels
@@ -54,3 +55,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Make swipe gestures obvious, and provide simple tap-based alternatives
 - [ ] Make sure data tables wider than their container can be scrolled horizontally
 - [ ] Avoid time constraints; provide a clear warning and option to extend where not possible 
+- [ ] Label and describe the same things with the same terms
