@@ -4,7 +4,6 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 
 - [ ] Minify CSS and JS, and remove unused/redundant code
 - [ ] Use screen reader and keyboard accessible HTML
-- [ ] Make sure wording is concise, clear, and not monotonous
 - [ ] Compress raster images
 - [ ] Optimize SVG path data
 - [ ] Make sure heading levels describe a logical section/subsection structure
@@ -48,7 +47,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Make controls look like controls; give them strong perceived affordance
 - [ ] Underline links — at least in body copy
 - [ ] Make sure all content belongs to a landmark element (`<header>`, `<footer>`, `<nav>`, `<main>`, etc)
-- [ ] Avoid pure white and pure black in visual designs
+- [ ] In visual designs, avoid pure white or pure black
 - [ ] Mark invalid fields clearly and provide associated error messages
 - [ ] Ensure content is not obscured through zooming (no fixed widths)
 - [ ] Provide a `manifest.json` file for identifiable homescreen entries
@@ -64,3 +63,5 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] [Provide a skip link if necessary](https://webaim.org/techniques/skipnav/) 
 - [ ] [Avoid all-caps text](https://github.com/humanmade/hm-pattern-library/issues/75)
 - [ ] [Ensure that content is written as clearly and simply as possible](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html)
+- [ ] Provide descriptive captions for figures
+- [ ] Warn users of links that have unusual behaviors, like linking off-site, or loading a new tab
