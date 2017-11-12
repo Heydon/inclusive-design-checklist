@@ -14,7 +14,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Make sure main body (paragraph) text is no smaller than the default (user agent) size
 - [ ] Support 'pinch zoom' (remove `user-scalable=no` if present)
 - [ ] Use relative units (`em`, `rem`, and `ch`), especially for font metrics
-- [ ] Make sure styes and scripts are not render blocking
+- [ ] Make sure styles and scripts are not render blocking
 - [ ] Install a service worker and cache all applicable assets
 - [ ] Use content-based, not device-specific, media queries
 - [ ] Provide alternatives and/or descriptions for complex visualizations
