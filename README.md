@@ -4,7 +4,6 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 
 - [ ] Minify CSS and JS, and remove unused/redundant code
 - [ ] Use screen reader and keyboard accessible HTML
-- [ ] Make sure wording is concise, clear, and not monotonous
 - [ ] Compress raster images
 - [ ] Optimize SVG path data
 - [ ] Make sure heading levels describe a logical section/subsection structure
@@ -14,7 +13,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Make sure main body (paragraph) text is no smaller than the default (user agent) size
 - [ ] Support 'pinch zoom' (remove `user-scalable=no` if present)
 - [ ] Use relative units (`em`, `rem`, and `ch`), especially for font metrics
-- [ ] Make sure styes and scripts are not render blocking
+- [ ] Make sure styles and scripts are not render blocking
 - [ ] Install a service worker and cache all applicable assets
 - [ ] Use content-based, not device-specific, media queries
 - [ ] Provide alternatives and/or descriptions for complex visualizations
@@ -58,5 +57,11 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Label and describe the same things with the same terminology
 - [ ] Ensure disabled controls are not focusable
 - [ ] Do not instate 'infinite scroll' by default; provide buttons to load more items
+- [ ] [Avoid justified body text](https://www.w3.org/TR/WCAG20-TECHS/F88.html)
+- [ ] [Provide enough spacing between lines of text (`line-height`)](https://www.w3.org/TR/WCAG20-TECHS/C21.html)
+- [ ] [Ensure content is accessible when printed out our saved as PDF](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6). 
+- [ ] [Provide a skip link if necessary](https://webaim.org/techniques/skipnav/) 
+- [ ] [Avoid all-caps text](https://github.com/humanmade/hm-pattern-library/issues/75)
+- [ ] [Ensure that content is written as clearly and simply as possible](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html)
 - [ ] Provide descriptive captions for figures
 - [ ] Warn users of links that have unusual behaviors, like linking off-site, or loading a new tab
