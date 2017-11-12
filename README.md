@@ -52,8 +52,8 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Mark invalid fields clearly and provide associated error messages
 - [ ] Ensure content is not obscured through zooming (no fixed widths)
 - [ ] Provide a `manifest.json` file for identifiable homescreen entries
-- [ ] Make swipe gestures obvious, and provide simple tap-based alternatives
+- [ ] Indicate swipe gesture support clearly, and provide simple tap-based alternatives
 - [ ] Make sure data tables wider than their container can be scrolled horizontally
-- [ ] Avoid time constraints; provide a clear warning and option to extend where not possible 
-- [ ] Label and describe the same things with the same terms
+- [ ] Avoid time constraints where possible; provide a clear warning and option to extend where not possible 
+- [ ] Label and describe the same things with the same terminology
 - [ ] Ensure disabled controls are not focusable
