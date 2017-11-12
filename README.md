@@ -56,3 +56,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Make sure data tables wider than their container can be scrolled horizontally
 - [ ] Avoid time constraints; provide a clear warning and option to extend where not possible 
 - [ ] Label and describe the same things with the same terms
+- [ ] Ensure disabled controls are not focusable
