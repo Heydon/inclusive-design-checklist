@@ -18,6 +18,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Use content-based, not device-specific, media queries
 - [ ] Provide alternatives and/or descriptions for complex visualizations
 - [ ] Include only clear, meaningful animations
+- [ ] Honor requests to remove animation via the `prefers-reduced-motion` media quey
 - [ ] Make sure controls do not elicit unexpected or jarring behavior
 - [ ] Do not include third parties that compromise user privacy
 - [ ] Do not recreate supported and expected browser behaviors with bespoke scripts
@@ -30,6 +31,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Use data tables (`<table>`) for data, not layout
 - [ ] Make scrollable elements focusable for keyboard users
 - [ ] Do not rely on color for differentation of visual elements
+- [ ] Honor special device contexts, such as Windows High Contrast Mode
 - [ ] Use the same design patterns to solve the same problems
 - [ ] Ensure keyboard focus order matches visual layout
 - [ ] Lazy load large image assets
