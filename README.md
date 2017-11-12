@@ -43,6 +43,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Employ well-balanced, highly legible fonts (not too complex or elaborate)
 - [ ] Do not use very thin font faces
 - [ ] Ensure states (pressed, expanded, invalid, etc) are communicated to assistive software
+- [ ] When component behaviour changes across breakpoints, ensure its presentation and state are described differently to assistive software
 - [ ] Provide a default language and use `lang="[ISO code]"` for subsections in different languages
 - [ ] Make controls look like controls; give them strong perceived affordance
 - [ ] Underline links — at least in body copy
@@ -67,4 +68,5 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Warn users of links that have unusual behaviors, like linking off-site, or loading a new tab
 - [ ] [Make content easier to find and improve search results with structured data](https://developers.google.com/search/docs/guides/prototype)
 - [ ] Use textual labels to make voice activation cues obvious
+- [ ] Do not mark up subheadings / straplines with separate heading elements
 - [ ] Ensure calls to action are consistently labeled, and easily translatable to other languages
