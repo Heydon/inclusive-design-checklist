@@ -5,7 +5,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] [Minify CSS and JS, and remove unused/redundant code](https://developers.google.com/speed/docs/insights/MinifyResources)
 - [ ] [Use screen reader and keyboard accessible HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 - [ ] [Compress raster images](https://www.html5rocks.com/en/tutorials/speed/img-compression/)
-- [ ] [Optimize SVG path data](https://jakearchibald.github.io/svgomg/)
+- [ ] [Optimize SVG path data](https://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
 - [ ] [Make sure heading levels describe a logical section/subsection structure](https://webaim.org/techniques/semanticstructure/)
 - [ ] Only include heading elements where they introduce sections of content
 - [ ] [Remove potentially insensitive or uninclusive language (use 'singular they')](http://alexjs.com/)
