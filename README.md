@@ -65,3 +65,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] [Ensure that content is written as clearly and simply as possible](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html)
 - [ ] Provide descriptive captions for figures
 - [ ] Warn users of links that have unusual behaviors, like linking off-site, or loading a new tab
+- [ ] Make content easier to find and improve search results with structured data
