@@ -1,2 +1,54 @@
-# inclusive-design-checklist
-Aims to be the biggest checklist of inclusive design considerations ever
+# Inclusive Design Checklist
+
+Aims to be the **biggest** checklist of inclusive design considerations ever. Includes items for accessibility, performance, device support, interoperability, and language.
+
+- [ ] Minify CSS and JS, and remove unused/redundant code
+- [ ] Use screen reader and keyboard accessible HTML
+- [ ] Make sure wording is concise, clear, and not monotonous
+- [ ] Compress raster images
+- [ ] Optimize SVG path data
+- [ ] Make sure heading levels describe a logical section/subsection structure
+- [ ] Only include heading elements where they introduce sections of content
+- [ ] Remove potentially insensitive or uninclusive language (use 'singular they')
+- [ ] Give video content captions and transcripts
+- [ ] Make sure main body (paragraph) text is no smaller than the default (user agent) size
+- [ ] Support 'pinch zoom' (remove `user-scalable=no` if present)
+- [ ] Use relative units (`em`, `rem`, and `ch`), especially for font metrics
+- [ ] Make sure styes and scripts are not render blocking
+- [ ] Install a service worker and cache all applicable assets
+- [ ] Use content-based, not device-specific, media queries
+- [ ] Provide alternatives and/or descriptions for complex visualizations
+- [ ] Include only clear, meaningful animations
+- [ ] Make sure controls do not elicit unexpected or jarring behavior
+- [ ] Do not include third parties that compromise user privacy
+- [ ] Do not recreate supported and expected browser behaviors with bespoke scripts
+- [ ] Support Windows high contrast mode (use images, not background images, if salient)
+- [ ] Provide alternative text for salient images
+- [ ] Apply `alt=""` or `aria-hidden="true"` to decorative images
+- [ ] Make sure text and background colors contrast sufficiently
+- [ ] Provide `<title>`s that name the site and the specific page
+- [ ] Provide large touch 'targets' for interactive elements
+- [ ] Use data tables (`<table>`) for data, not layout
+- [ ] Make scrollable elements focusable for keyboard users
+- [ ] Do not rely on color for differentation of visual elements
+- [ ] Use consistent design patterns
+- [ ] Ensure keyboard focus order matches visual layout
+- [ ] Lazy load large image assets
+- [ ] Do not hijack standard scrolling behavior
+- [ ] Move focus between dialogs and the controls that invoked them
+- [ ] Give all form elements permanently visible labels
+- [ ] Give grouped form elements group labels
+- [ ] Provide status and error messages as WAI-ARIA live regions
+- [ ] Provide clear, unambiguous focus styles
+- [ ] Employ well-balanced, highly legible fonts (not too complex or elaborate)
+- [ ] Do not use very thin font faces
+- [ ] Ensure states (pressed, expanded, invalid, etc) are communicated to assistive software
+- [ ] Provide a default language and use `lang="[ISO code]"` for sections in different languages
+- [ ] Make controls look like controls; give them strong perceived affordance
+- [ ] Underline links — at least in body copy
+- [ ] Make sure all content belongs to a landmark element (`<header>`, `<footer>`, `<nav>`, `<main>`, etc)
+- [ ] Avoid pure white and pure black visual designs
+- [ ] Mark invalid fields clearly and provide associated error messages
+- [ ] Ensure content is not obscured through zooming (no fixed widths)
+- [ ] Provide a `manifest.json` file for identifiable homescreen entries
+- [ ] Make swipe gestures obvious, and provide simple tap-based alternatives
