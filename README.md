@@ -2,15 +2,15 @@
 
 Aims to be the **biggest** checklist of inclusive design considerations ever. Includes items for accessibility, performance, device support, interoperability, and language. Pull requests welcome!
 
-- [ ] Minify CSS and JS, and remove unused/redundant code
-- [ ] Use screen reader and keyboard accessible HTML
-- [ ] Compress raster images
-- [ ] Optimize SVG path data
-- [ ] Make sure heading levels describe a logical section/subsection structure
+- [ ] [Minify CSS and JS, and remove unused/redundant code](https://developers.google.com/speed/docs/insights/MinifyResources)
+- [ ] [Use screen reader and keyboard accessible HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
+- [ ] [Compress raster images](https://www.html5rocks.com/en/tutorials/speed/img-compression/)
+- [ ] [Optimize SVG path data](https://jakearchibald.github.io/svgomg/)
+- [ ] [Make sure heading levels describe a logical section/subsection structure](https://webaim.org/techniques/semanticstructure/)
 - [ ] Only include heading elements where they introduce sections of content
-- [ ] Remove potentially insensitive or uninclusive language (use 'singular they')
+- [ ] [Remove potentially insensitive or uninclusive language (use 'singular they')](http://alexjs.com/)
 - [ ] Give video content captions and transcripts
-- [ ] Make sure main body (paragraph) text is no smaller than the default (user agent) size
+- [ ] [Make sure main body (paragraph) text is no smaller than the default (user agent) size](https://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/)
 - [ ] Support 'pinch zoom' (remove `user-scalable=no` if present)
 - [ ] Use relative units (`em`, `rem`, and `ch`), especially for font metrics
 - [ ] Make sure styles and scripts are not render blocking
