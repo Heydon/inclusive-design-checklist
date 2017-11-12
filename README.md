@@ -53,3 +53,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Provide a `manifest.json` file for identifiable homescreen entries
 - [ ] Make swipe gestures obvious, and provide simple tap-based alternatives
 - [ ] Make sure data tables wider than their container can be scrolled horizontally
+- [ ] Avoid time constraints; provide a clear warning and option to extend where not possible 
