@@ -1,6 +1,6 @@
 # Inclusive Design Checklist
 
-Aims to be the **biggest** checklist of inclusive design considerations ever. Includes items for accessibility, performance, device support, interoperability, and language.
+Aims to be the **biggest** checklist of inclusive design considerations ever. Includes items for accessibility, performance, device support, interoperability, and language. Pull requests welcome!
 
 - [ ] Minify CSS and JS, and remove unused/redundant code
 - [ ] Use screen reader and keyboard accessible HTML
