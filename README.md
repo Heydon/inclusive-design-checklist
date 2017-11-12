@@ -57,3 +57,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Avoid time constraints where possible; provide a clear warning and option to extend where not possible 
 - [ ] Label and describe the same things with the same terminology
 - [ ] Ensure disabled controls are not focusable
+- [ ] Do not instate 'infinite scroll' by default; provide buttons to load more items
