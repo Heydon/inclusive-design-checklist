@@ -67,4 +67,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Warn users of links that have unusual behaviors, like linking off-site, or loading a new tab
 - [ ] [Make content easier to find and improve search results with structured data](https://developers.google.com/search/docs/guides/prototype)
 - [ ] Use textual labels to make voice activation cues obvious
-- [ ] Esnure important calls to action are consistent and easily translatable to other languages
+- [ ] Ensure important calls to action are consistent and easily translatable to other languages
