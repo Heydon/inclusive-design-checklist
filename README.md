@@ -59,3 +59,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Ensure disabled controls are not focusable
 - [ ] Do not instate 'infinite scroll' by default; provide buttons to load more items
 - [ ] Provide descriptive captions for figures
+- [ ] Warn users of links that have unusual behaviors, like linking off-site, or loading a new tab
