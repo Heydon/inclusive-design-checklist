@@ -48,7 +48,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Make controls look like controls; give them strong perceived affordance
 - [ ] Underline links — at least in body copy
 - [ ] Make sure all content belongs to a landmark element (`<header>`, `<footer>`, `<nav>`, `<main>`, etc)
-- [ ] Avoid pure white and pure black in visual designs
+- [ ] In visual designs, avoid pure white or pure black
 - [ ] Mark invalid fields clearly and provide associated error messages
 - [ ] Ensure content is not obscured through zooming (no fixed widths)
 - [ ] Provide a `manifest.json` file for identifiable homescreen entries
@@ -58,3 +58,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Label and describe the same things with the same terminology
 - [ ] Ensure disabled controls are not focusable
 - [ ] Do not instate 'infinite scroll' by default; provide buttons to load more items
+- [ ] Provide descriptive captions for figures
