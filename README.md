@@ -68,4 +68,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Warn users of links that have unusual behaviors, like linking off-site, or loading a new tab
 - [ ] [Make content easier to find and improve search results with structured data](https://developers.google.com/search/docs/guides/prototype)
 - [ ] Use textual labels to make voice activation cues obvious
-- [ ] Subheadings / straplines are not separate headings and should not use separate heading elements
+- [ ] Do not mark up subheadings / straplines with separate heading elements
