@@ -13,9 +13,9 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] [Make sure main body (paragraph) text is no smaller than the default (user agent) size](https://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/)
 - [ ] Support 'pinch zoom' (remove `user-scalable=no` if present)
 - [ ] Use relative units (`em`, `rem`, and `ch`), especially for font metrics
-- [ ] Make sure styles and scripts are not render blocking
-- [ ] Install a service worker and cache all applicable assets
-- [ ] Use content-based, not device-specific, media queries
+- [ ] [Make sure styles and scripts are not render blocking](https://csabapalfi.github.io/eliminate-render-blocking/)
+- [ ] [Install a service worker and cache all applicable assets](https://css-tricks.com/serviceworker-for-offline/)
+- [ ] [Use content-based, not device-specific, media queries](http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/#content)
 - [ ] Provide alternatives and/or descriptions for complex visualizations
 - [ ] Include only clear, meaningful animations
 - [ ] Honor requests to remove animation via the `prefers-reduced-motion` media query
@@ -73,3 +73,4 @@ ly legible fonts (not too complex or elaborate)
 - [ ] Do not mark up subheadings / straplines with separate heading elements
 - [ ] Ensure calls to action are consistently labeled, and easily translatable to other languages
 - [ ] Avoid images of text — text that cannot be translated, selected, or understood by assistive tech
+- [ ] Provide a print stylesheet (single column, with interactive content hidden)
