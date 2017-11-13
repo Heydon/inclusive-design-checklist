@@ -71,7 +71,7 @@ ly legible fonts (not too complex or elaborate)
 - [ ] Warn users of links that have unusual behaviors, like linking off-site, or loading a new tab
 - [ ] [Make content easier to find and improve search results with structured data](https://developers.google.com/search/docs/guides/prototype)
 - [ ] Use textual labels to make voice activation cues obvious
-- [ ] Do not mark up subheadings / straplines with separate heading elements
-- [ ] Ensure calls to action are consistently labeled, and easily translatable to other languages
+- [ ] Do not mark up subheadings/straplines with separate heading elements
+- [ ] Ensure primary calls to action are easy to recognize and reach
 - [ ] Avoid images of text — text that cannot be translated, selected, or understood by assistive tech
 - [ ] Provide a print stylesheet (single column, with interactive content hidden)
