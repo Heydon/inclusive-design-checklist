@@ -72,3 +72,4 @@ ly legible fonts (not too complex or elaborate)
 - [ ] Use textual labels to make voice activation cues obvious
 - [ ] Do not mark up subheadings / straplines with separate heading elements
 - [ ] Ensure calls to action are consistently labeled, and easily translatable to other languages
+- [ ] Avoid images of text — text that cannot be translated, selected, or understood by assistive tech
