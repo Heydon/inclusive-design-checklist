@@ -22,7 +22,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Make sure controls do not elicit unexpected or jarring behavior
 - [ ] Do not include third parties that compromise user privacy
 - [ ] Do not recreate supported and expected browser behaviors with bespoke scripts
-- [ ] Support Windows high contrast mode (use images, not background images, if salient)
+- [ ] Support Windows high contrast mode (use images, not background images)
 - [ ] Provide alternative text for salient images
 - [ ] Apply `alt=""` or `aria-hidden="true"` to decorative images
 - [ ] Make sure text and background colors contrast sufficiently
@@ -31,7 +31,6 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Use data tables (`<table>`) for data, not layout
 - [ ] Make scrollable elements focusable for keyboard users
 - [ ] Do not rely on color for differentation of visual elements
-- [ ] Honor special device contexts, such as Windows High Contrast Mode
 - [ ] Use the same design patterns to solve the same problems
 - [ ] Ensure keyboard focus order matches visual layout
 - [ ] Lazy load large image assets
@@ -42,7 +41,8 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Give grouped form elements group labels
 - [ ] Provide status and error messages as WAI-ARIA live regions
 - [ ] Provide clear, unambiguous focus styles
-- [ ] Employ well-balanced, highly legible fonts (not too complex or elaborate)
+- [ ] Employ well-balanced, 
+ly legible fonts (not too complex or elaborate)
 - [ ] Do not use very thin font faces
 - [ ] Ensure states (pressed, expanded, invalid, etc) are communicated to assistive software
 - [ ] When component behaviour changes across breakpoints, ensure its presentation and state are described differently to assistive software
