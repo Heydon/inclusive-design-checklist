@@ -34,6 +34,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Use the same design patterns to solve the same problems
 - [ ] Ensure keyboard focus order matches visual layout
 - [ ] Lazy load large image assets
+- [ ] [Honour DNT (Do Not Track) header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/DNT)
 - [ ] Translate / spell out acronyms the first time you use them
 - [ ] Do not hijack standard scrolling behavior
 - [ ] Move focus between dialogs and the controls that invoked them
