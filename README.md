@@ -75,3 +75,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Ensure primary calls to action are easy to recognize and reach
 - [ ] Avoid images of text — text that cannot be translated, selected, or understood by assistive tech
 - [ ] Provide a print stylesheet (single column, with interactive content hidden)
+- [ ] Use well-established, therefore recognizable, icons and symbols
