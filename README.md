@@ -10,6 +10,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Only include heading elements where they introduce sections of content
 - [ ] [Remove potentially insensitive or uninclusive language (use 'singular they')](http://alexjs.com/)
 - [ ] Give video content captions and transcripts
+- [ ] Provide transcripts for audio content  
 - [ ] [Make sure main body (paragraph) text is no smaller than the default (user agent) size](https://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/)
 - [ ] Support 'pinch zoom' (remove `user-scalable=no` if present)
 - [ ] Use relative units (`em`, `rem`, and `ch`), especially for font metrics
@@ -30,7 +31,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Provide large touch 'targets' for interactive elements
 - [ ] Use data tables (`<table>`) for data, not layout
 - [ ] Make scrollable elements focusable for keyboard users
-- [ ] Do not rely on color for differentation of visual elements
+- [ ] Do not rely on color for differentiation of visual elements
 - [ ] Use the same design patterns to solve the same problems
 - [ ] Ensure keyboard focus order matches visual layout
 - [ ] Lazy load large image assets
@@ -42,8 +43,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Give grouped form elements group labels
 - [ ] Provide status and error messages as WAI-ARIA live regions
 - [ ] Provide clear, unambiguous focus styles
-- [ ] Employ well-balanced, 
-ly legible fonts (not too complex or elaborate)
+- [ ] Employ well-balanced, highly legible fonts (not too complex or elaborate)
 - [ ] Do not use very thin font faces
 - [ ] Ensure states (pressed, expanded, invalid, etc) are communicated to assistive software
 - [ ] When component behaviour changes across breakpoints, ensure its presentation and state are described differently to assistive software
