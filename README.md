@@ -29,11 +29,11 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Make sure text and background colors contrast sufficiently
 - [ ] Provide `<title>`s that name the site and the specific page
 - [ ] Provide large touch 'targets' for interactive elements
-- [ ] Use data tables (`<table>`) for data, not layout
+- [ ] Use data tables (`<table>`) for data, not 
 - [ ] Make scrollable elements focusable for keyboard users
 - [ ] Do not rely on color for differentiation of visual elements
 - [ ] Use the same design patterns to solve the same problems
-- [ ] Ensure keyboard focus order matches visual layout
+- [ ] Ensure keyboard focus order is logical regarding visual layout
 - [ ] Lazy load large image assets
 - [ ] [Honour DNT (Do Not Track) header](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/DNT)
 - [ ] Translate / spell out acronyms the first time you use them
