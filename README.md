@@ -31,7 +31,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Provide large touch 'targets' for interactive elements
 - [ ] Use data tables (`<table>`) for data, not layout
 - [ ] Make scrollable elements focusable for keyboard users
-- [ ] Do not rely on color for differentation of visual elements
+- [ ] Do not rely on color for differentiation of visual elements
 - [ ] Use the same design patterns to solve the same problems
 - [ ] Ensure keyboard focus order matches visual layout
 - [ ] Lazy load large image assets
