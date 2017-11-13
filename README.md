@@ -43,8 +43,7 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Give grouped form elements group labels
 - [ ] Provide status and error messages as WAI-ARIA live regions
 - [ ] Provide clear, unambiguous focus styles
-- [ ] Employ well-balanced, 
-ly legible fonts (not too complex or elaborate)
+- [ ] Employ well-balanced, highly legible fonts (not too complex or elaborate)
 - [ ] Do not use very thin font faces
 - [ ] Ensure states (pressed, expanded, invalid, etc) are communicated to assistive software
 - [ ] When component behaviour changes across breakpoints, ensure its presentation and state are described differently to assistive software
