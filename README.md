@@ -63,7 +63,7 @@ ly legible fonts (not too complex or elaborate)
 - [ ] Do not instate 'infinite scroll' by default; provide buttons to load more items
 - [ ] [Avoid justified body text](https://www.w3.org/TR/WCAG20-TECHS/F88.html)
 - [ ] [Provide enough spacing between lines of text (`line-height`)](https://www.w3.org/TR/WCAG20-TECHS/C21.html)
-- [ ] [Ensure content is accessible when printed out our saved as PDF](https://uxdesign.cc/i-totally-forgot-about-print-style-sheets-f1e6604cfd6). 
+- [ ] [Ensure PDF content is accessible](https://webaim.org/techniques/acrobat/)
 - [ ] [Provide a skip link if necessary](https://webaim.org/techniques/skipnav/) 
 - [ ] [Avoid all-caps text](https://github.com/humanmade/hm-pattern-library/issues/75)
 - [ ] [Ensure that content is written as clearly and simply as possible](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html)
