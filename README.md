@@ -71,3 +71,4 @@ ly legible fonts (not too complex or elaborate)
 - [ ] [Make content easier to find and improve search results with structured data](https://developers.google.com/search/docs/guides/prototype)
 - [ ] Use textual labels to make voice activation cues obvious
 - [ ] Do not mark up subheadings / straplines with separate heading elements
+- [ ] Ensure calls to action are consistently labeled, and easily translatable to other languages
