@@ -3,6 +3,7 @@
 Aims to be the **biggest** checklist of inclusive design considerations for the web _ever_. Includes items for accessibility, performance, device support, interoperability, and language. Pull requests welcome!
 
 - [ ] [Minify CSS and JS, and remove unused/redundant code](https://developers.google.com/speed/docs/insights/MinifyResources)
+- [ ] Maintain terse HTML, without over-reliance on `<div>` scaffolding
 - [ ] [Use screen reader and keyboard accessible HTML](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML)
 - [ ] [Compress raster images](https://www.html5rocks.com/en/tutorials/speed/img-compression/)
 - [ ] [Optimize SVG path data](https://web-design-weekly.com/2014/10/22/optimizing-svg-web/)
