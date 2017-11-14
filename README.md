@@ -83,3 +83,4 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Begin long, multi-section documents with a table of contents
 - [ ] Don't make users perform actions to reveal content unless completely necessary
 - [ ] If content is meant to be hidden, ensure it is properly hidden to all users
+- [ ] Use `srcset` to tailor images to devices and reduce bandwidth costs
