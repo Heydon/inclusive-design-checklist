@@ -80,3 +80,4 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Subset fonts to just the characters you need
 - [ ] Instead of obstructing users with CAPTCHAs, use [honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 - [ ] Begin long, multi-section documents with a table of contents
+- [ ] If content is meant to be hidden, ensure it is properly hidden to all users
