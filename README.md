@@ -47,12 +47,12 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Employ well-balanced, highly legible fonts (not too complex or elaborate)
 - [ ] Do not use very thin font faces
 - [ ] Ensure states (pressed, expanded, invalid, etc) are communicated to assistive software
-- [ ] When component behaviour changes across breakpoints, ensure its presentation and state are described differently to assistive software
+- [ ] Match semantics to behavior for assistive technology users
 - [ ] Provide a default language and use `lang="[ISO code]"` for subsections in different languages
 - [ ] Make controls look like controls; give them strong perceived affordance
 - [ ] Underline links — at least in body copy
 - [ ] Make sure all content belongs to a landmark element (`<header>`, `<footer>`, `<nav>`, `<main>`, etc)
-- [ ] In visual designs, avoid pure white or pure black
+- [ ] Avoid pure white or pure black shades
 - [ ] Mark invalid fields clearly and provide associated error messages
 - [ ] Ensure content is not obscured through zooming (no fixed widths)
 - [ ] Provide a `manifest.json` file for identifiable homescreen entries
@@ -81,3 +81,4 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Instead of obstructing users with CAPTCHAs, use [honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 - [ ] Begin long, multi-section documents with a table of contents
 - [ ] Don't make users perform actions to reveal content unless completely necessary
+- [ ] If content is meant to be hidden, ensure it is properly hidden to all users
