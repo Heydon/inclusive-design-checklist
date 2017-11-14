@@ -29,7 +29,7 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Make sure text and background colors contrast sufficiently
 - [ ] Provide `<title>`s that name the site and the specific page
 - [ ] Provide large touch 'targets' for interactive elements
-- [ ] Use data tables (`<table>`) for data, not 
+- [ ] Use data tables (`<table>`) for data only, not visual layout purposes
 - [ ] Make scrollable elements focusable for keyboard users
 - [ ] Do not rely on color for differentiation of visual elements
 - [ ] Use the same design patterns to solve the same problems
