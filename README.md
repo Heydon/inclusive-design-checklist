@@ -78,4 +78,4 @@ Aims to be the **biggest** checklist of inclusive design considerations ever. In
 - [ ] Use well-established, therefore recognizable, icons and symbols
 - [ ] Subset fonts to just the characters you need
 - [ ] Instead of obstructing users with CAPTCHAs, use [honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
-- [ ] Begin long, multi-section documents with a table of content
+- [ ] Begin long, multi-section documents with a table of contents
