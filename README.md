@@ -1,4 +1,4 @@
-# Inclusive Design Checklist
+# Inclusive Web Design Checklist
 
 Aims to be the **biggest** checklist of inclusive design considerations ever. Includes items for accessibility, performance, device support, interoperability, and language. Pull requests welcome!
 
