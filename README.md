@@ -41,6 +41,7 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Move focus between dialogs and the controls that invoked them
 - [ ] Give all form elements permanently visible labels
 - [ ] Give grouped form elements group labels
+- [ ] Place labels above form elements
 - [ ] Provide status and error messages as WAI-ARIA live regions
 - [ ] Provide clear, unambiguous focus styles
 - [ ] Employ well-balanced, highly legible fonts (not too complex or elaborate)
