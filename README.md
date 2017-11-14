@@ -64,7 +64,7 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Do not instate 'infinite scroll' by default; provide buttons to load more items
 - [ ] [Avoid justified body text](https://www.w3.org/TR/WCAG20-TECHS/F88.html)
 - [ ] [Provide enough spacing between lines of text (`line-height`)](https://www.w3.org/TR/WCAG20-TECHS/C21.html)
-- [ ] [Ensure PDF content is accessible](https://webaim.org/techniques/acrobat/)
+- [ ] [Ensure PDF content is accessible (include tags)](https://webaim.org/techniques/acrobat/)
 - [ ] [Provide a skip link if necessary](https://webaim.org/techniques/skipnav/) 
 - [ ] [Avoid all-caps text](https://github.com/humanmade/hm-pattern-library/issues/75)
 - [ ] [Ensure that content is written as clearly and simply as possible](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html)
