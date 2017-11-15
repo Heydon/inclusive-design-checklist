@@ -86,3 +86,4 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Make sure controls within hidden content are not focusable
 - [ ] Use `srcset` to tailor images to devices and reduce bandwidth costs
 - [ ] Do not auto focus form fields, on page load
+- [ ] Break up long and complex forms into discrete sections and/or screens 
