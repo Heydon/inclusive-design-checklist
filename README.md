@@ -78,7 +78,7 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Avoid images of text — text that cannot be translated, selected, or understood by assistive tech
 - [ ] Provide a print stylesheet (single column, with interactive content hidden)
 - [ ] Use well-established, therefore recognizable, icons and symbols
-- [ ] Subset fonts to just the characters you need
+- [ ] Subset fonts to just the characters needed
 - [ ] Instead of obstructing users with CAPTCHAs, use [honeypots](https://en.wikipedia.org/wiki/Honeypot_(computing))
 - [ ] Begin long, multi-section documents with a table of contents
 - [ ] Don't make users perform actions to reveal content unless completely necessary
