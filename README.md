@@ -46,7 +46,7 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Provide status and error messages as WAI-ARIA live regions
 - [ ] Provide clear, unambiguous focus styles
 - [ ] Employ well-balanced, highly legible fonts (not too complex or elaborate)
-- [ ] Do not use very thin font faces
+- [ ] [Do not use very thin font faces](http://www.telegraph.co.uk/science/2016/10/23/internet-is-becoming-unreadable-because-of-a-trend-towards-light/)
 - [ ] Ensure states (pressed, expanded, invalid, etc) are communicated to assistive software
 - [ ] Match semantics to behavior for assistive technology users
 - [ ] Provide a default language and use `lang="[ISO code]"` for subsections in different languages
