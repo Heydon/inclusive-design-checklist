@@ -88,3 +88,4 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Do not auto focus form fields, on page load
 - [ ] Break up long and complex forms into discrete sections and/or screens 
 - [ ] Make forms as short as possible; offer shortcuts like autocompleting the address using the postcode
+- [ ] Ensure the same content is available across different devices and platforms
