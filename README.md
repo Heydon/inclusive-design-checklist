@@ -90,4 +90,4 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Make forms as short as possible; offer shortcuts like autocompleting the address using the postcode
 - [ ] Ensure the same content is available across different devices and platforms
 - [ ] Inform the user when there are important changes to the application state
-- [ ] Make sure the purpose of a link is clearly described. "read more" vs. "read more about accessibility".
+- [ ] Make sure the purpose of a link is clearly described — "read more" vs. "read more about accessibility"
