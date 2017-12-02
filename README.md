@@ -11,9 +11,11 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Only include heading elements where they introduce sections of content
 - [ ] Remove potentially insensitive or uninclusive language (use "singular they") [Resource #1](http://alexjs.com/)
 - [ ] Give video content captions and transcripts
+- [ ] No autoplay video or audio. It can be quite frustrating to try to find and pause with a screen reader.
 - [ ] Provide transcripts for audio content  
-- [ ] Make sure main body (paragraph) text is no smaller than the default (user agent) size [Resource #1](https://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/)
-- [ ] Support "pinch zoom" (remove `user-scalable=no` if present)
+- [ ] [Make sure main body (paragraph) text is no smaller than the default (user agent) size](https://www.smashingmagazine.com/2011/10/16-pixels-body-copy-anything-less-costly-mistake/)
+- [ ] Support 'pinch zoom' (remove `user-scalable=no` if present)
+- [ ] Ensure that page can be resized to at least 200% in the browser and remain legible.
 - [ ] Use relative units (`em`, `rem`, and `ch`), especially for font metrics
 - [ ] Make sure styles and scripts are not render blocking [Resource #1](https://csabapalfi.github.io/eliminate-render-blocking/)
 - [ ] Install a service worker and cache all applicable assets [Resource #1](https://css-tricks.com/serviceworker-for-offline/)
@@ -59,16 +61,17 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Provide a `manifest.json` file for identifiable homescreen entries
 - [ ] Indicate swipe gesture support clearly, and provide simple tap-based alternatives
 - [ ] Make sure data tables wider than their container can be scrolled horizontally
-- [ ] Avoid time constraints where possible; provide a clear warning and option to extend where not possible 
+- [ ] Avoid time constraints where possible; provide a clear warning and option to extend where not possible
 - [ ] Label and describe the same things with the same terminology
 - [ ] Ensure disabled controls are not focusable
-- [ ] Do not instate "infinite scroll" by default; provide buttons to load more items
-- [ ] Avoid justified body text [Resource #1](https://www.w3.org/TR/WCAG20-TECHS/F88.html)
-- [ ] Provide enough spacing between lines of text (`line-height`) [Resource #1](https://www.w3.org/TR/WCAG20-TECHS/C21.html)
-- [ ] Ensure PDF content is accessible (include tags) [Resource #1](https://webaim.org/techniques/acrobat/)
-- [ ] Provide a skip link if necessary  [Resource #1](https://webaim.org/techniques/skipnav/)
-- [ ] Avoid all-caps text [Resource #1](https://github.com/humanmade/hm-pattern-library/issues/75)
-- [ ] Ensure that content is written as clearly and simply as possible [Resource #1](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html)
+- [ ] Do not instate 'infinite scroll' by default; provide buttons to load more items
+- [ ] [Avoid justified body text](https://www.w3.org/TR/WCAG20-TECHS/F88.html)
+- [ ] [Provide enough spacing between lines of text (`line-height`)](https://www.w3.org/TR/WCAG20-TECHS/C21.html)
+- [ ] Don't make line widths unreasonably long.
+- [ ] [Ensure PDF content is accessible (include tags)](https://webaim.org/techniques/acrobat/)
+- [ ] [Provide a skip link if necessary](https://webaim.org/techniques/skipnav/)
+- [ ] [Avoid all-caps text](https://github.com/humanmade/hm-pattern-library/issues/75)
+- [ ] [Ensure that content is written as clearly and simply as possible](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-supplements.html)
 - [ ] Provide descriptive captions for figures
 - [ ] Warn users of links that have unusual behaviors, like linking off-site, or loading a new tab
 - [ ] Make content easier to find and improve search results with structured data [Resource #1](https://developers.google.com/search/docs/guides/prototype)
@@ -86,8 +89,9 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Make sure controls within hidden content are not focusable
 - [ ] Use `srcset` to tailor images to devices and reduce bandwidth costs
 - [ ] Do not auto focus form fields, on page load
-- [ ] Break up long and complex forms into discrete sections and/or screens 
+- [ ] Break up long and complex forms into discrete sections and/or screens
 - [ ] Make forms as short as possible; offer shortcuts like autocompleting the address using the postcode
 - [ ] Ensure the same content is available across different devices and platforms
 - [ ] Inform the user when there are important changes to the application state
-- [ ] Make sure the purpose of a link is clearly described. "read more" vs. "read more about accessibility".
+- [ ] Make sure the purpose of a link is clearly described — "read more" vs. "read more about accessibility"
+- [ ] Avoid drag and drop actions, which can be frustrating for elderly and mobility impaired users.
