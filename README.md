@@ -1,6 +1,6 @@
 # Inclusive Web Design Checklist
 
-Aims to be the **biggest** checklist of inclusive design considerations for the web _ever_. Includes items for accessibility, performance, device support, interoperability, and language. Pull requests welcome!
+Aims to be the **biggest** checklist of inclusive design considerations for the web _ever_. Includes items for accessibility, performance, device support, interoperability, and language. Pull requests welcome! Please add to the `checklist.json` file.
 
 - [ ] Minify CSS and JS, and remove unused/redundant code [Resource #1](https://developers.google.com/speed/docs/insights/MinifyResources)
 - [ ] Maintain terse HTML, without over-reliance on `<div>` scaffolding
