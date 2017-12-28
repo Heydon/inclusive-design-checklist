@@ -30,7 +30,7 @@ dataSet.map(function(data) {
 
         // Loop each resource and generate a link
         data.resources.map(function(resource, index) {
-            resources += ' [[#' + (index + 1) + ']](' + resource + ') ';
+            resources += ' [[#' + (index + 1) + '](' + resource + ')] ';
         });
 
         // Add resources to the result string
