@@ -79,7 +79,7 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Provide a print stylesheet (single column, with interactive content hidden)
 - [ ] Use well-established, therefore recognizable, icons and symbols
 - [ ] Subset fonts to just the characters needed
-- [ ] Instead of obstructing users with CAPTCHAs, use [honeypots [[#1](https://en.wikipedia.org/wiki/Honeypot_(computing))] 
+- [ ] Instead of obstructing users with CAPTCHAs, use honeypots [[#1](https://en.wikipedia.org/wiki/Honeypot_(computing))] 
 - [ ] Begin long, multi-section documents with a table of contents
 - [ ] Don"t make users perform actions to reveal content unless completely necessary
 - [ ] If content is meant to be hidden, ensure it is properly hidden to all users
