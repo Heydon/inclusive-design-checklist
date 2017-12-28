@@ -4,7 +4,8 @@
     "resources": ["https://developers.google.com/speed/docs/insights/MinifyResources"]
   },
   {
-    "item": "Maintain terse HTML, without over-reliance on `<div>` scaffolding"
+    "item": "Maintain terse HTML, without over-reliance on `<div>` scaffolding",
+    "resources": ["http://designingforperformance.com/optimizing-markup-and-styles/#divitis"]
   },
   {
     "item": "Use screen reader and keyboard accessible HTML",
