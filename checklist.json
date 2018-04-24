@@ -192,7 +192,7 @@
     "item": "Make sure data tables wider than their container can be scrolled horizontally"
   },
   {
-    "item": "Avoid time constraints where possible; provide a clear warning and option to extend where not possible "
+    "item": "Avoid time constraints where possible; provide a clear warning and option to extend where not possible"
   },
   {
     "item": "Label and describe the same things with the same terminology"
@@ -266,7 +266,7 @@
     "item": "Begin long, multi-section documents with a table of contents"
   },
   {
-    "item": "Don\"t make users perform actions to reveal content unless completely necessary"
+    "item": "Do not make users perform actions to reveal content unless completely necessary"
   },
   {
     "item": "If content is meant to be hidden, ensure it is properly hidden to all users"
