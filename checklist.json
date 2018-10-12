@@ -134,6 +134,10 @@
     "item": "Move focus between dialogs and the controls that invoked them"
   },
   {
+    "item": "Provide focus traps to dialogs and make other elements non-selectable",
+    "resources":["https://css-tricks.com/a-css-approach-to-trap-focus-inside-of-an-element/"]
+  },
+  {
     "item": "Give all form elements permanently visible labels"
   },
   {
