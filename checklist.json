@@ -87,7 +87,7 @@
     "resources": ["https://www.w3.org/WAI/tutorials/images/decision-tree/"]
   },
   {
-    "item": "Apply `alt=\"` or `aria-hidden=\"true\"` to decorative images",
+    "item": "Apply `alt=\"\"` or `aria-hidden=\"true\"` to decorative images",
     "resources": ["https://www.w3.org/WAI/tutorials/images/decorative/"]
   },
   {

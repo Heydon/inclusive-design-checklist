@@ -26,7 +26,7 @@ Aims to be the **biggest** checklist of inclusive design considerations for the 
 - [ ] Do not recreate supported and expected browser behaviors with bespoke scripts
 - [ ] Support Windows high contrast mode (use images, not background images) [[#1](http://adrianroselli.com/2012/08/css-background-images-high-contrast-mode.html)] 
 - [ ] Provide alternative text for salient images [[#1](https://www.w3.org/WAI/tutorials/images/decision-tree/)] 
-- [ ] Apply `alt="` or `aria-hidden="true"` to decorative images [[#1](https://www.w3.org/WAI/tutorials/images/decorative/)] 
+- [ ] Apply `alt=""` or `aria-hidden="true"` to decorative images [[#1](https://www.w3.org/WAI/tutorials/images/decorative/)] 
 - [ ] Make sure text and background colors contrast sufficiently [[#1](https://accessibility.blog.gov.uk/2016/06/17/colour-contrast-why-does-it-matter/)] 
 - [ ] Provide `<title>`s that name the site and the specific page [[#1](https://www.w3.org/TR/WCAG20-TECHS/G88.html)] 
 - [ ] Provide large touch "targets" for interactive elements [[#1](http://www.bbc.co.uk/guidelines/futuremedia/accessibility/mobile/design/touch-target-size)] 
